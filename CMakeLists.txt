@@ -16,3 +16,5 @@ target_link_libraries(monitor ${CURSES_LIBRARIES})
 target_compile_options(monitor PRIVATE -Wall -Wextra)
 
 #test
+#test2
+
